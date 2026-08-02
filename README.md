@@ -1,4 +1,4 @@
-# Hospital Management System (OOP Assignment)
+# Hospital Management System (OOP Project)
 
 A modular, maintainable, reusable, and scalable console-based **Hospital Management System** implemented in Python using Object-Oriented Programming (OOP) principles.
 
